@@ -1,11 +1,11 @@
 # Site settings
-author: Havilah J Farnsworth
-title: 
+author: Havilah Farnsworth
+title: My Journey to Becoming a Programmer
 header-img: img/home-bg.png
 email: havilahfarnsworth@gmail.com
-copyright_name: Havilah J Farnsworth
+copyright_name: Havilah Farnsworth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  What I learned during my Immersive Bootcamp
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hfarnsworth
