@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pig Latinizer"
-date:       2020-06-10 22:41:03 +0000
+date:       2020-06-10 18:41:04 -0400
 permalink:  pig_latinizer
 ---
 
@@ -74,6 +74,4 @@ permalink:  pig_latinizer
 
 <!-- wp:image {"id":32,"width":310,"height":310,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large is-resized"><img src="https://smushcathome.files.wordpress.com/2019/12/illway-the-anmay.jpg?w=600" alt="" class="wp-image-32" width="310" height="310"/><figcaption>I also learned, I will never forget the lyrics to this song...</figcaption></figure>
-<!-- /wp:image --># Enter your title here
-
-The content of your blog post goes here.
+<!-- /wp:image -->
